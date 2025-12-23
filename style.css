@@ -42,8 +42,8 @@ div[data-test="metric-container"]{
 .prediction-box {
     background: linear-gradient(
         135deg,
-        #f4f5f1,
-        #f170e7
+        #fe8d92,
+        #9693f3
     );
 
     padding: 22px;
@@ -51,7 +51,7 @@ div[data-test="metric-container"]{
     text-align: center;
     font-size: 22px;
     font-weight: bold;
-    color: #6886c3;
+    color: #d4f808;
     margin-top: 15px;
 }
 

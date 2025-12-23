@@ -104,7 +104,7 @@ st.markdown('<div>',unsafe_allow_html=True)
 st.markdown(f"""
 
     <div class="card">
-    <h3> Model Intercept  & Co-efficient
+    <h3> Model Intercept  & Co-efficient</h3>
     <p> <b> Co-efficient: </b> {model.coef_[0]:.3f}<br>
     <b> Intercept:</b> {model.intercept_:.3f}</p>
     </div>
